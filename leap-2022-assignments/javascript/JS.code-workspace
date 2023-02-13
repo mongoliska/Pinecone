@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Leap Green - Nara"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
